@@ -1,0 +1,28 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: black;
+}
+
+.center-div {
+    width: fit-content;
+    margin: auto;
+}
+
+.center-div {
+    text-align: center;
+}
+
+#title-text {
+    font-size: 5vh;
+    color: white;
+    text-shadow: 0 0 2vw white;
+}
+
+#cool-photo-div {
+    border: 1vw solid hsl(0, 100%, 50%);
+}
+
+#cool-photo {
+    height: 60vh;
+    opacity: 0.8;
+}
